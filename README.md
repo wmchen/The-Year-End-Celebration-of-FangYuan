@@ -11,6 +11,12 @@
 * Version: 2.7
 
 
+#### File Structure
+* --Guide
+    --快捷键大全
+    --用户指南
+
+
 #### Using Module
 * Tkinter
 * ttk
